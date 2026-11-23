@@ -1,4 +1,4 @@
-Projeto inicial · Módulo 7 · Mais testes com pouco código
+Projeto inicial · Módulo 10 · Testes de API
 
 Este é o projeto exatamente como ele fica no começo deste módulo. Use se você se perdeu ou quer começar daqui.
 
